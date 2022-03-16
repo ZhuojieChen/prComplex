@@ -1,2 +1,2 @@
-# official code for "Phase Recovery With Deep Complex-Domain Priors"
+# The official code for "Phase Recovery With Deep Complex-Domain Priors"
 coming soon.
